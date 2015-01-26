@@ -57,8 +57,7 @@
       </div>
     </div>
 
-<?php include('portrow.inc.php');?>
-<?php include('portrow.inc.php');?>
+
 
 
       <hr>
