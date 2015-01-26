@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ITCFranklinGothicStdDemiExtraCompressed';
+    src: url('frank_demi_extra_comp.eot');
+    src: url('frank_demi_extra_comp.eot') format('embedded-opentype'),
+         url('frank_demi_extra_comp.woff2') format('woff2'),
+         url('frank_demi_extra_comp.woff') format('woff'),
+         url('frank_demi_extra_comp.ttf') format('truetype'),
+         url('frank_demi_extra_comp.svg#ITCFranklinGothicStdDemiExtraCompressed') format('svg');
+}

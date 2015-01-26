@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ITCFranklinGothicStdBook';
+    src: url('frank_book.eot');
+    src: url('frank_book.eot') format('embedded-opentype'),
+         url('frank_book.woff2') format('woff2'),
+         url('frank_book.woff') format('woff'),
+         url('frank_book.ttf') format('truetype'),
+         url('frank_book.svg#ITCFranklinGothicStdBook') format('svg');
+}
